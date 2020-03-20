@@ -1,6 +1,6 @@
 # Pig game
 
-![Image of Yaktocat](https://imgur.com/a/oV7hoKV)
+![Pig Game Image](https://i.imgur.com/NR1CyI3.png)
 
 ### Game rules:
 
